@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://crash-casino-au.com/
+Sitemap: https://crash-casino-au.com/sitemap.xml
